@@ -30,10 +30,7 @@ http://www.okct.net/client_codeCode.tmp|clientForm.mobile=电话号码&clientFor
 http://tg.cf300888.com.cn/CoinProject/SendCaptchaController/send/register|mobile=电话号码&openId=or2A41lTkzVbjJkTbLeND3JOcccg&redPacketId=&isRed=0
 http://www.labifenqi.com/gateway2server/basicController/sendDnyCode|{"chanName":"_3gqq","chanType":"APP4.3.0","entranceID":"41","loginPhone":"电话号码","reqTime":"2017-07-19 18:02:04","sign":"aa179c71c9d4080ae25ba1cb28b4a9f6","token":""}
 https://passport.ceair.com/cesso/mobile!geetCheck.shtml?_0.020283224898892227|mobileNo=电话号码&geetest_challenge=&geetest_validate=&geetest_seccode=
-http://101.201.222.89:8899/api/login/register_api.jsp?phone=电话号码&time=/It0sZso/So8r0jMn+8kkw==
-http://106.14.252.78/api/customer/account/LoginSendSMSCaptcha?mobile=电话号码
 http://112.74.210.6/app/appUser/send_short_message.do?loginPhone=电话号码
-http://120.25.103.14//member/smsvalidate/smsvalidate.do?phoneNo=电话号码&mac=
 http://120.25.59.102:8888/api/user/sendMsg.json?client_id=1000000&mobile=电话号码
 http://api.chaojipi.com/v1/account/registCode?phone_=电话号码
 http://api.cheyuan.com/index.php?m=index&a=sendmsg&mobilephone=电话号码&token=wnx16FyrNVLuVph270gtag%3D%3D
@@ -71,4 +68,3 @@ http://www.yijinkj.com/Api/Zt/register_sms?phone=电话号码
 http://yczl.dxyy365.com/membershipProfile/verification?mobile=电话号码
 http://app.zhuan16.com/user/getCode.json?mobile=电话号码&r_d=0.7493451368063688&appSystem=android
 http://api.xiaodingkeji.com//api/Account/ReturnCode?phoneNumber=电话号码&City=1023&UserInfoId=0&ClientId=15403&ClientInfoId=15403&CityId=1023&json=true
-http://116.62.27.112:8081/front/smsLogin.do?&cell=电话号码&smsType=LOGIN_VERIFY&appType=ANDROID&version=1.1.0&stime=1506959224056&sign=YnZHhcGNeaxGidf7VnaAUw%3D%3D&platformCode=WE_ONLINE&token=225080027290225&userId=
